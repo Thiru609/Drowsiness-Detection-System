@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="6984BEF02A22A2F2DB9C163B367A7A21745AFE07">
+
+  <entryPoint>DDS</entryPoint>
+
+  <name>Drowsiness Detection System</name>
+
+  <version>1.0</version>
+
+  <createdByMATLABRelease>(R2019b)</createdByMATLABRelease>
+
+  <GUID>a59483b2-2cb5-4038-9f03-45df5d0c0c22</GUID>
+
+  <summary>This project detects movement of the driver to figure out if they're drowsy or not.</summary>
+
+  <description>The program runs for about one and a half minutes before it analyses the input.</description>
+
+  <author>
+    <name>Human Computer Interaction</name>
+    <contact></contact>
+    <organization></organization>
+  </author>
+
+  <supportedPlatforms/>
+
+  <requiredProducts/>
+
+  <numFiles>7</numFiles>
+
+  <created>2020-05-30T08:37:43Z</created>
+
+  <appEntries>
+    <appFile>/ProgramData/MATLAB/SupportPackages/R2019b/toolbox/matlab/webcam/supportpackages/+matlab/+webcam/+internal/Utility.p</appFile>
+    <appFile>/ProgramData/MATLAB/SupportPackages/R2019b/toolbox/matlab/webcam/supportpackages/+matlab/+webcam/+internal/webcamDesktop.p</appFile>
+    <appFile>/Users/Soumya Vishwakarma/Documents/MATLAB/Examples/R2019b/matlab/AppdImageHistogramsExample/Segment_fn.m</appFile>
+    <appFile>/ProgramData/MATLAB/SupportPackages/R2019b/toolbox/matlab/webcam/supportpackages/+matlab/+webcam/+internal/webcamOnline.p</appFile>
+    <appFile>/Users/Soumya Vishwakarma/Documents/MATLAB/Examples/R2019b/matlab/AppdImageHistogramsExample/DDS.mlapp</appFile>
+    <appFile>/Users/Soumya Vishwakarma/Documents/MATLAB/Examples/R2019b/matlab/AppdImageHistogramsExample/cam.m</appFile>
+    <appFile>/ProgramData/MATLAB/SupportPackages/R2019b/toolbox/matlab/webcam/supportpackages/@webcam/webcam.m</appFile>
+  </appEntries>
+
+</appProperties>
